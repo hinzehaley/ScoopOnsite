@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ScoopOnsite</string>
+    <string name="network">Network</string>
+    <string name="not_connected">You are not connected to a network. Please connect or move to an
+        area where a network is available and try again.</string>
+    <string name="ok">Ok</string>
+    <string name="request_error">Request Error</string>
+    <string name="parse_error">Unable to parse response.</string>
+    <string name="network_error">There was a problem with the network. Please check your connection and try again.</string>
+    <string name="no_connection">Unable to connect.</string>
+    <string name="server_error">No server response.</string>
+    <string name="timeout_error">Response timed out.</string>
+    <string name="generic_error">There was an error getting information.</string>
+</resources>
